@@ -16,7 +16,11 @@ to = Matrix(4, 1, [[0], [1], [1], [0]])
 nn.rand()
 g.rand()
 
+print(nn)
+
 nn.train(g, 0.1, 0.1, ti, to, 100000)
+
+print(nn)
 
 print('\nResults: \n')
 
