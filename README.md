@@ -6,6 +6,16 @@ This is a small framework to machine learning models.
 
 We have a class `Matrix` and a class `NeuralNetwork`.
 
+# Examples
+
+* [xor](./examples/xor.py)
+
+```console
+cd examples
+
+python3 xor.py
+```
+
 ## Matrix docs
 
 If you wanna print the `Matrix`:
