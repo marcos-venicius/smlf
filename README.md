@@ -8,13 +8,21 @@ We have a class `Matrix` and a class `NeuralNetwork`.
 
 # Examples
 
-* [xor](./examples/xor.py)
+## Xor
+
+[view the file](./examples/xor.py)
 
 ```console
 cd examples
 
 python3 xor.py
 ```
+
+Output example:
+
+![Screenshot from 2023-12-12 11-59-20](https://github.com/marcos-venicius/smlf/assets/94018427/06b8fc84-84ec-4ffd-9270-42a47b195b73)
+
+# Docs
 
 ## Matrix docs
 
