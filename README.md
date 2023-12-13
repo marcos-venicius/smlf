@@ -105,7 +105,7 @@ m3 = m1.dot(m2) # <-- do this
 The neural network expects an architecture like `[2, 2, 1]`, that means:
 
 * 2 inputs
-* 2 hidden layers
+* 1 hidden layer
 * 1 output
 
 If you wanna print the `NeuralNetwork`:
